@@ -1,2 +1,2 @@
 # long-arithmetic
-Arithmetic of long numbers in C++
+Arithmetic of long numbers on C++
